@@ -9,12 +9,19 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Euriandesjales&theme=synthwave)
 
-<div style="display: flex; justify-content: space-between;">
-    <img align="center" alt="ArchLinux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<style>
+    h1 {
+        text-align: center;
+    }
+</style>
+<h1>Tecnologias que Utilizo</h1>
+<div style="display: inline_block>"><br/>
+    <img alig="center" alt="ArchLinux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
     <img alig="center" alt="Bash" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
     <img alig="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+    <img alig="center" alt="Python" src=" https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
 </div>
+
  
-
-
-
+# Sobre mim
+Sobre mim Auto Didata fascinado por tecnologia, acompanho o senário tecnológico a anos, enho interesse em aprender e aprimorar minhas habilidades em Python e Linux, e estou sempre buscando novos desafios e oportunidades para crescer profissionalmente. Acredito que a tecnologia tem o poder de transformar o mundo e estou animado para fazer parte dessa mudança.
