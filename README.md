@@ -9,12 +9,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Euriandesjales&theme=synthwave)
 
-<style>
-    h1 {
-        text-align: center;
-    }
-</style>
-<h1>Tecnologias que Utilizo</h1>
+
+
+<h1 style=text-align: center;>Tecnologias que Utilizo</h1>
 <div style="display: inline_block>"><br/>
     <img alig="center" alt="ArchLinux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
     <img alig="center" alt="Bash" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
