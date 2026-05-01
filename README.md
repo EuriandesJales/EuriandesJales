@@ -11,15 +11,21 @@
 
 
 <h1 style=text-align: center;>Tecnologias que Utilizo</h1>
-<div style="display: inline_block>"><br/>
-    <img alig="center" alt="ArchLinux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
-    <img alig="center" alt="Bash" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-    <img alig="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-    <img alig="center" alt="Adobe Premiere" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
-    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</div>
 
+<p align="left">
+  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img alt="Bash Script" src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"/>
+  <img alt="CachyOS" src="https://img.shields.io/badge/CachyOS-000000?style=for-the-badge&logo=arch-linux&logoColor=00ff00"/>
+  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white"/>
+  <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
+</p>
+
+---
 
 # Sobre mim
-Sobre mim Auto Didata fascinado por tecnologia, acompanho o senário tecnológico a anos, enho interesse em aprender e aprimorar minhas habilidades em Python e Linux, e estou sempre buscando novos desafios e oportunidades para crescer profissionalmente. Acredito que a tecnologia tem o poder de transformar o mundo e estou animado para fazer parte dessa mudança.
+Autodidata, fascinado por tecnologia, acompanhando o cenário tecnológico ao longo dos anos. Tenho interesse em aprender e aprimorar minhas habilidades, estou sempre buscando novos desafios e oportunidades para crescer profissionalmente. Acredito que a tecnologia tem o poder de transformar o mundo e estou animado para fazer parte dessa mudança.
