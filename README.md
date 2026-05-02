@@ -5,10 +5,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/euriandes-jales-65b596201/)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Euriandesjales&theme=synthwave)
-
-
-
 <h1 style=text-align: center;>Tecnologias que Utilizo</h1>
 
 <p align="left">
